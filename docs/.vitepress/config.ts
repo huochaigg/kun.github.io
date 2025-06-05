@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
   title: "我的博客",
+  base: '/kun.github.io/',
   themeConfig: {
     nav: [
       { text: "首页", link: "/" },
@@ -10,7 +11,7 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: "Obsidian",
+        text: "javascript",
         items: [
           { text: "快捷键", link: "/obsidian/快捷键" },
         ],

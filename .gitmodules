@@ -1,0 +1,6 @@
+[submodule "obsidian"]
+	path = obsidian
+	url = git@github.com:huochaigg/learn_markdown.git
+[submodule "docs/obsidian"]
+	path = docs/obsidian
+	url = git@github.com:huochaigg/learn_markdown.git
