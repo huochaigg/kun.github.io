@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "385090835d48cdbd",
+        "id": "dbcc33a794b788b0",
         "type": "tabs",
         "children": [
           {
-            "id": "c39fa00a38dfdd7e",
+            "id": "0e6ea421553aaf89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/css/IFC.md",
+                "file": "web/react/setState同步异步.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IFC"
-            }
-          },
-          {
-            "id": "0910d08afd195676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web/css/IFC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IFC"
+              "title": "setState同步异步"
             }
           }
         ]
@@ -108,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/css/IFC.md",
-                "collapseAll": false,
+                "file": "web/react/setState同步异步.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "IFC 的反向链接列表"
+              "title": "setState同步异步 的反向链接列表"
             }
           },
           {
@@ -127,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web/css/IFC.md",
+                "file": "web/react/setState同步异步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "IFC 的出链列表"
+              "title": "setState同步异步 的出链列表"
             }
           },
           {
@@ -156,21 +142,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/css/IFC.md",
+                "file": "web/react/setState同步异步.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "IFC 的大纲"
+              "title": "setState同步异步 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +168,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c39fa00a38dfdd7e",
+  "active": "0e6ea421553aaf89",
   "lastOpenFiles": [
-    "web/css/BFC.md",
-    "web/react/setState同步异步.md",
     "web/css/IFC.md",
+    "assets/20250610164412.png",
+    "assets/20250610162859.png",
+    "web/css/BFC.md",
+    "assets/delete.png",
+    "assets/image.png",
+    "kun.github.io/assets/20250610120917.png.md",
+    "kun.github.io/assets",
+    "kun.github.io",
+    "web/react/setState同步异步.md",
     "about.md",
     "web.md",
     "博客推送方式.md",
@@ -199,16 +192,14 @@
     "web/react",
     "web/javascript",
     "web/css",
-    "web/assets/20250610122612.png",
-    "web/assets/20250610120917.png",
-    "web/assets",
-    "web",
+    "assets/20250610122612.png",
+    "assets/20250610120917.png",
+    "assets",
     "css/IFC.md",
     "react/setState同步异步.md",
     "assets/20250610122612.png",
     "assets/20250610120917.png",
     "assets/Pasted image 20250610120917.png",
-    "assets",
     "Pasted image 20250610120917.png"
   ]
 }
