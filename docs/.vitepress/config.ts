@@ -1,56 +1,53 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
   title: "我的博客",
   base: '/kun.github.io/',
   themeConfig: {
     nav: [
       { text: "首页", link: "/" },
-      { text: "前端学习", link: "/web" },
+      { text: "前端学习", link: "/web/css/BFC", activeMatch: '/web' },
       { text: "关于我", link: "/about" },
     ],
     sidebar: {
-      "/web/": [
+      '/web/': [
         {
-          text: "javascript",
+          text: '前端学习',
           items: [
-            { text: "快捷键", link: "/obsidian/快捷键" },
+            {
+              text: "CSS",
+              items: [
+                { text: "BFC", link: "/web/css/BFC" },
+                { text: "IFC", link: "/web/css/IFC" },
+              ],
+            },
+            {
+              text: "JavaScript",
+              items: [
+                { text: "快捷键", link: "/web/javascript/快捷键" },
+              ],
+            },
+            {
+              text: "React",
+              items: [
+                { text: "setState同步异步", link: "/web/react/setState同步异步" },
+              ],
+            },
+            {
+              text: "Vue",
+              items: [
+                // 添加 Vue 相关内容
+              ],
+            },
+            {
+              text: "TypeScript",
+              items: [
+                // 添加 TypeScript 相关内容
+              ],
+            },
           ],
-        },
-        {
-          text: "css",
-          items: [
-            { text: "BFC", link: "/css/BFC" },
-            { text: "IFC", link: "/css/IFC" },
-          ],
-        },
-        {
-          text: "react",
-          items: [
-            { text: "setState同步异步", link: "/react/setState同步异步" },
-          ],
-        },
-        {
-          text: "vue",
-          items: [
-            
-          ],
-        },
-        {
-          text: "typescript",
-          items: [
-            
-          ],
-        },
-        {
-          text: "其他文件夹",
-          items: [
-            { text: "文件名", link: "/文件夹/文件名" },
-          ],
-        },
+        }
       ]
-    },
+    }
   },
-}
-)
+})
