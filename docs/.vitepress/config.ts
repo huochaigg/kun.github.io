@@ -31,6 +31,7 @@ export default defineConfig({
               text: "React",
               items: [
                 { text: "setState同步异步", link: "/web/react/setState同步异步" },
+                { text: "useSyncExternalStore", link: "/web/react/useSyncExternalStore" },
               ],
             },
             {
