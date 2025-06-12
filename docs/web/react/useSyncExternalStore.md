@@ -199,5 +199,5 @@ export default function MousePosition() {
 ```
 
 
-![排除外部浮动](/assets/useSyncExternalStore.gif)
+![useSyncExternalStore](/assets/useSyncExternalStore.gif)
 

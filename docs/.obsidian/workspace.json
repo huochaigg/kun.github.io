@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "68e017712d1ea7ec",
+        "id": "a38cd713a0ca9df7",
         "type": "tabs",
         "children": [
           {
-            "id": "e0dd38bcf3a6200e",
+            "id": "84fc9fd82eb3bb9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/react/useSyncExternalStore.md",
+                "file": "web/vue/nextTick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useSyncExternalStore"
+              "title": "nextTick"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/react/useSyncExternalStore.md",
+                "file": "web/vue/nextTick.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "useSyncExternalStore 的大纲"
+              "title": "nextTick 的大纲"
             }
           }
         ],
@@ -168,39 +168,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e0dd38bcf3a6200e",
+  "active": "84fc9fd82eb3bb9f",
   "lastOpenFiles": [
-    "web/css/BFC.md",
-    "web/react/useSyncExternalStore.md",
+    "web/配置/vite/基本配置.md",
+    "web/配置/vite",
+    "web/网络和浏览器/浏览器进程.md",
+    "web/网络和浏览器/浏览器执行顺序.md",
+    "web/网络和浏览器/WebWorker.md",
+    "web/网络和浏览器/执行顺序.md",
+    "web/网络和浏览器/进程.md",
+    "web/网络/HTTP.md",
+    "web/网络和浏览器/常见安全问题-点击劫持.md",
+    "web/网络和浏览器/常见安全问题-XSS.md",
+    "web/网络和浏览器/常见安全问题-SSRF.md",
+    "web/网络和浏览器/常见安全问题-CSRF.md",
+    "web/网络和浏览器/SEO优化.md",
+    "web/网络和浏览器/加密.md",
+    "web/网络和浏览器/前端优化相关.md",
+    "web/网络和浏览器/CDN.md",
+    "web/网络和浏览器/HTTP.md",
+    "web/网络和浏览器",
+    "web/网络/SEO优化.md",
+    "web/网络/常见安全问题-点击劫持.md",
+    "web/网络/常见安全问题-CSRF.md",
+    "web/网络/常见安全问题-SSRF.md",
+    "web/网络/加密.md",
+    "web/网络/常见安全问题-XSS.md",
+    "web/网络/CDN.md",
+    "web/网络/前端优化相关.md",
+    "web/web3d/threejs.md",
+    "web/其他/工作中的注意点.md",
+    "web/web3d",
+    "web/配置/esbuild",
+    "web/配置/Vite",
+    "web/配置",
+    "web/其他",
+    "web/跨平台",
+    "web/AI",
+    "web/小程序",
+    "assets/useTransition2.gif",
+    "assets/useTransition1.gif",
     "assets/useSyncExternalStore.gif",
-    "web/react/setState同步异步.md",
-    "web/css/IFC.md",
     "assets/20250610164412.png",
     "assets/20250610162859.png",
     "assets/delete.png",
     "assets/image.png",
-    "kun.github.io/assets/20250610120917.png.md",
-    "kun.github.io/assets",
-    "kun.github.io",
-    "about.md",
-    "web.md",
-    "博客推送方式.md",
-    "index.md",
-    "css/BFC.md",
-    "web/webpack",
-    "web/web安全相关",
-    "web/vue",
-    "web/typescript",
-    "web/react",
-    "web/javascript",
-    "web/css",
     "assets/20250610122612.png",
     "assets/20250610120917.png",
-    "assets",
-    "css/IFC.md",
-    "react/setState同步异步.md",
-    "assets/20250610122612.png",
-    "assets/20250610120917.png",
-    "assets/Pasted image 20250610120917.png"
+    "assets/20250610122612.png"
   ]
 }
