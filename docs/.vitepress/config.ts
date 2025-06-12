@@ -65,7 +65,6 @@ export default defineConfig({
                 { text: "HTTP", link: "/web/网络和浏览器/HTTP" },
                 { text: "SEO优化", link: "/web/网络和浏览器/SEO优化" },
                 { text: "CDN", link: "/web/网络和浏览器/CDN" },
-                { text: "前端优化相关", link: "/web/网络和浏览器/前端优化相关" },
                 { text: "浏览器进程", link: "/web/网络和浏览器/浏览器进程" },
                 { text: "浏览器执行顺序", link: "/web/网络和浏览器/浏览器执行顺序" },
                 { text: "前端优化相关", link: "/web/网络和浏览器/前端优化相关" },
@@ -108,7 +107,9 @@ export default defineConfig({
             {
               text: "其他",
               items: [
-                
+                { text: "git", link: "/web/跨平台/git" },
+                { text: "yarn", link: "/web/跨平台/yarn" },
+                { text: "TSPL指令", link: "/web/跨平台/TSPL指令" },
               ],
             }
           ],

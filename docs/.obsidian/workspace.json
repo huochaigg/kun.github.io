@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/vue/nextTick.md",
+                "file": "web/配置/webpack/Electron配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nextTick"
+              "title": "Electron配置"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/vue/nextTick.md",
+                "file": "web/配置/webpack/Electron配置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "nextTick 的大纲"
+              "title": "Electron配置 的大纲"
             }
           }
         ],
@@ -170,34 +170,34 @@
   },
   "active": "84fc9fd82eb3bb9f",
   "lastOpenFiles": [
+    "web/配置/webpack/如何把配置文件改为TS的.md",
+    "web/配置/webpack/模块联邦.md",
+    "web/配置/webpack/常用Plugin.md",
+    "web/配置/webpack/常用Loader.md",
+    "web/网络和浏览器/前端优化相关.md",
+    "web/网络和浏览器/浏览器执行顺序.md",
+    "web/网络和浏览器/常见安全问题-点击劫持.md",
+    "web/网络和浏览器/常见安全问题-SSRF.md",
+    "web/网络和浏览器/常见安全问题-XSS.md",
+    "web/网络和浏览器/加密.md",
+    "web/网络和浏览器/WebWorker.md",
+    "web/网络和浏览器/SEO优化.md",
+    "web/网络和浏览器/浏览器进程.md",
+    "web/网络和浏览器/HTTP.md",
+    "web/网络和浏览器/CDN.md",
+    "web/vue/nextTick.md",
+    "web/vue/如何自定义指令.md",
+    "web/vue/双向绑定的原理.md",
     "web/配置/vite/基本配置.md",
     "web/配置/vite",
-    "web/网络和浏览器/浏览器进程.md",
-    "web/网络和浏览器/浏览器执行顺序.md",
-    "web/网络和浏览器/WebWorker.md",
     "web/网络和浏览器/执行顺序.md",
     "web/网络和浏览器/进程.md",
     "web/网络/HTTP.md",
-    "web/网络和浏览器/常见安全问题-点击劫持.md",
-    "web/网络和浏览器/常见安全问题-XSS.md",
-    "web/网络和浏览器/常见安全问题-SSRF.md",
     "web/网络和浏览器/常见安全问题-CSRF.md",
-    "web/网络和浏览器/SEO优化.md",
-    "web/网络和浏览器/加密.md",
-    "web/网络和浏览器/前端优化相关.md",
-    "web/网络和浏览器/CDN.md",
-    "web/网络和浏览器/HTTP.md",
     "web/网络和浏览器",
     "web/网络/SEO优化.md",
     "web/网络/常见安全问题-点击劫持.md",
     "web/网络/常见安全问题-CSRF.md",
-    "web/网络/常见安全问题-SSRF.md",
-    "web/网络/加密.md",
-    "web/网络/常见安全问题-XSS.md",
-    "web/网络/CDN.md",
-    "web/网络/前端优化相关.md",
-    "web/web3d/threejs.md",
-    "web/其他/工作中的注意点.md",
     "web/web3d",
     "web/配置/esbuild",
     "web/配置/Vite",
