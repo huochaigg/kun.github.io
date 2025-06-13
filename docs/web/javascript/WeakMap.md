@@ -69,3 +69,13 @@ function heavyComputation(obj) {
 const obj = { value: 2 };
 console.log(compute(obj)); // 1024
 ```
+
+
+## WeakMap 和 Map的区别
+
+### 1. Map的键可以是任意类型，WeakMap的键只能是对象
+### 2.Map的键是强引用，WeakMap的键是弱引用，未被其他引用会被垃圾回收机制回收
+### 3. Map可被遍历，支持`.keys()`、`.values()`、`.entries()`、`forEach()`，WeakMap不可被遍历，没有size属性，所以WeakMap不适合做一些发布订阅
+### 4. Map 普通键值对存储，可查可遍历，WeakMap适用于私有数据绑定，缓存，隐藏数据等
+
+### 5. WeakMap安全性更高一些
