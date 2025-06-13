@@ -39,6 +39,8 @@ export default defineConfig({
                 { text: "setState同步异步", link: "/web/react/setState同步异步" },
                 { text: "useSyncExternalStore", link: "/web/react/useSyncExternalStore" },
                 { text: "useId", link: "/web/react/useId" },
+                { text: "react的渲染", link: "/web/react/react的渲染" },
+                { text: "fiber", link: "/web/react/fiber" },
               ],
             },
             {

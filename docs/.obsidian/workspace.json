@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/vue/vue3渲染流程.md",
+                "file": "web/react/react的渲染.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vue3渲染流程"
+              "title": "react的渲染"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/vue/vue3渲染流程.md",
+                "file": "web/react/react的渲染.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "vue3渲染流程 的大纲"
+              "title": "react的渲染 的大纲"
             }
           }
         ],
@@ -170,13 +170,16 @@
   },
   "active": "84fc9fd82eb3bb9f",
   "lastOpenFiles": [
+    "web/react/setState同步异步.md",
+    "web/react/fiber.md",
+    "web/react/react的渲染.md",
+    "web/javascript/Reflect.md",
     "web/javascript/WeakSet.md",
+    "web/javascript/WeakMap.md",
     "web/vue/vue3渲染流程.md",
     "web/javascript/垃圾回收机制.md",
     "web/javascript/事件循环.md",
-    "web/javascript/WeakMap.md",
     "web/javascript/var,let,const区别.md",
-    "web/javascript/Reflect.md",
     "web/javascript/canvas.md",
     "web/javascript/变量提升.md",
     "web/网络和浏览器/浏览器进程.md",
@@ -193,9 +196,6 @@
     "web/网络和浏览器/加密.md",
     "web/网络和浏览器/WebWorker.md",
     "web/网络和浏览器/SEO优化.md",
-    "web/网络和浏览器/HTTP.md",
-    "web/网络和浏览器/CDN.md",
-    "web/vue/nextTick.md",
     "web/配置/vite",
     "web/网络和浏览器",
     "web/web3d",
