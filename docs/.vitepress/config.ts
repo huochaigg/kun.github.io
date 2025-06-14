@@ -41,6 +41,7 @@ export default defineConfig({
                 { text: "useId", link: "/web/react/useId" },
                 { text: "react的渲染", link: "/web/react/react的渲染" },
                 { text: "fiber", link: "/web/react/fiber" },
+                { text: "写一个弹窗组件", link: "/web/react/写一个弹窗组件" },
               ],
             },
             {
@@ -55,7 +56,8 @@ export default defineConfig({
             {
               text: "TypeScript",
               items: [
-                // 添加 TypeScript 相关内容
+                { text: "ts内置工具类", link: "/web/typescript/ts内置工具类" },
+                { text: "as", link: "/web/typescript/as" },
               ],
             },
             {
