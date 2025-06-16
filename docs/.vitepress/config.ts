@@ -51,6 +51,7 @@ export default defineConfig({
                 { text: "双向绑定的原理", link: "/web/vue/双向绑定的原理" },
                 { text: "nextTick", link: "/web/vue/nextTick" },
                 { text: "vue3渲染流程", link: "/web/vue/vue3渲染流程" },
+                { text: "如何调试vue", link: "/web/vue/如何调试vue" },
               ],
             },
             {
