@@ -113,9 +113,9 @@ export default defineConfig({
             {
               text: "其他",
               items: [
-                { text: "git", link: "/web/跨平台/git" },
-                { text: "yarn", link: "/web/跨平台/yarn" },
-                { text: "TSPL指令", link: "/web/跨平台/TSPL指令" },
+                { text: "git", link: "/web/其他/git" },
+                { text: "yarn", link: "/web/其他/yarn" },
+                { text: "TSPL指令", link: "/web/其他/TSPL指令" },
               ],
             }
           ],

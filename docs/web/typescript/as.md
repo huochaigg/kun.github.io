@@ -89,7 +89,7 @@ type RenameKeys<T> = {
 };
 ```
 
-删除某些键，注意这里[extends](typescript/extends)的用法
+删除某些键，注意这里extends的用法
 
 ```
 type Original = {
