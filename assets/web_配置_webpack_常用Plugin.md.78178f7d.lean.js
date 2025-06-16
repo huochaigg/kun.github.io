@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.b8b79069.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/\u914D\u7F6E/webpack/\u5E38\u7528Plugin.md"}'),n={name:"web/\u914D\u7F6E/webpack/\u5E38\u7528Plugin.md"};function r(c,o,s,p,_,i){return a(),t("div")}const m=e(n,[["render",r]]);export{l as __pageData,m as default};
