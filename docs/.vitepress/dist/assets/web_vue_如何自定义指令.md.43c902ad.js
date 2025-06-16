@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.b8b79069.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/vue/\u5982\u4F55\u81EA\u5B9A\u4E49\u6307\u4EE4.md"}'),r={name:"web/vue/\u5982\u4F55\u81EA\u5B9A\u4E49\u6307\u4EE4.md"};function _(o,s,c,n,p,d){return a(),t("div")}const f=e(r,[["render",_]]);export{m as __pageData,f as default};
