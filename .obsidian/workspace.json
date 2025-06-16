@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "89c31ed270eee9ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "a38cd713a0ca9df7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84fc9fd82eb3bb9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web/typescript/as.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "as"
+            }
+          },
+          {
+            "id": "53421ac51e69e35d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web/typescript/extends.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "extends"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bed4b6dc0d247dda",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dc7980262e7fb3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1ca20a2879eff82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1c35eb1f1dfe05fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3d7d4919fe85c9af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e1f0bc6ec93ec0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a6744e079cfd35e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "549cbf5adce58c91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "web/react/setState同步异步.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "setState同步异步 的反向链接列表"
+            }
+          },
+          {
+            "id": "eb4176322ecadbf5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "web/react/setState同步异步.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "setState同步异步 的出链列表"
+            }
+          },
+          {
+            "id": "4f7daa32b7f180e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4b39288b790a7d0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "web/typescript/as.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "as 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "84fc9fd82eb3bb9f",
+  "lastOpenFiles": [
+    "web/react/React.Suspense.md",
+    "web/javascript/正则表达式.md",
+    "web/javascript/变量提升.md",
+    "web/javascript/事件循环.md",
+    "web/javascript/垃圾回收机制.md",
+    "web/javascript/WeakSet.md",
+    "web/javascript/WeakMap.md",
+    "web/javascript/var,let,const区别.md",
+    "web/javascript/Reflect.md",
+    "web/javascript/canvas.md",
+    "web/javascript",
+    "web/css/IFC.md",
+    "web/css/BFC.md",
+    "web/css",
+    "kun.github.io/assets/20250610120917.png.md",
+    "kun.github.io/assets",
+    "kun.github.io",
+    "index.md",
+    "assets/20250610120917.png",
+    "assets/20250610122612.png",
+    "assets/20250610164412.png",
+    "assets/useTransition2.gif",
+    "assets/useTransition1.gif",
+    "assets/useSyncExternalStore.gif",
+    "assets/delete.png",
+    "assets/20250610162859.png",
+    "assets",
+    "about.md",
+    "web/typescript/extends.md",
+    "web/typescript/as.md",
+    "web/vue/如何调试vue.md",
+    "web/typescript/typescript/extends",
+    "web/typescript/typescript",
+    "web/react/fiber.md",
+    "web/react/写一个弹窗组件.md",
+    "web/react/useId.md",
+    "web/react/setState同步异步.md",
+    "web/react/react的渲染.md",
+    "web/react/useSyncExternalStore.md",
+    "web/网络和浏览器/常见安全问题-CSRF.md",
+    "web/网络和浏览器/常见安全问题-点击劫持.md",
+    "web/配置/vite",
+    "web/网络和浏览器",
+    "web/web3d",
+    "assets/image.png"
+  ]
+}
