@@ -31,6 +31,7 @@ export default defineConfig({
                 { text: "Reflect", link: "/web/javascript/Reflect" },
                 { text: "canvas", link: "/web/javascript/canvas" },
                 { text: "正则表达式", link: "/web/javascript/正则表达式" },
+                { text: "var,let,const区别", link: "/web/javascript/var,let,const区别" },
               ],
             },
             {
@@ -38,6 +39,7 @@ export default defineConfig({
               items: [
                 { text: "setState同步异步", link: "/web/react/setState同步异步" },
                 { text: "useSyncExternalStore", link: "/web/react/useSyncExternalStore" },
+                { text: "React.Suspense", link: "/web/react/React.Suspense" },
                 { text: "useId", link: "/web/react/useId" },
                 { text: "react的渲染", link: "/web/react/react的渲染" },
                 { text: "fiber", link: "/web/react/fiber" },
@@ -80,7 +82,7 @@ export default defineConfig({
               text: "微前端",
               items: [
                 { text: "qiankun如何使用", link: "/web/微前端/qiankun如何使用" },
-                // { text: "微前端的原理", link: "/web/微前端/微前端的原理" },
+                { text: "微前端的原理", link: "/web/微前端/微前端的原理" },
               ],
             },
             {
@@ -92,14 +94,15 @@ export default defineConfig({
                     { text: "常用Loader", link: "/web/配置/webpack/常用Loader" },
                     { text: "常用Plugin", link: "/web/配置/webpack/常用Plugin" },
                     { text: "模块联邦", link: "/web/配置/webpack/模块联邦" },
-                    // { text: "如何把配置文件改为TS", link: "/web/配置/webpack/如何把配置文件改为TS" },
-                    // { text: "Electron配置", link: "/web/配置/webpack/Electron配置" },
+                    { text: "如何把配置文件改为TS", link: "/web/配置/webpack/如何把配置文件改为TS" },
+                    { text: "Electron配置", link: "/web/配置/webpack/Electron配置" },
                   ] 
                 },
                 { 
                   text: "vite", 
                   items: [
                     { text: "基本配置", link: "/web/配置/vite/基本配置" },
+                    { text: "vite和webpack的区别", link: "/web/配置/vite/vite和webpack的区别" },
                   ] 
                 },
               ],
