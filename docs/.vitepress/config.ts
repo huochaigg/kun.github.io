@@ -23,6 +23,8 @@ function sidebarWeb(): DefaultTheme.SidebarItem[] {
       items: [
         { text: "BFC", link: "/web/css/BFC" },
         { text: "IFC", link: "/web/css/IFC" },
+        { text: "css变量", link: "/web/css/css变量" },
+        { text: "Shadow DOM", link: "/web/css/Shadow DOM" },
       ]
     },
     {
@@ -69,6 +71,8 @@ function sidebarWeb(): DefaultTheme.SidebarItem[] {
       items: [
         { text: "ts内置工具类", link: "/web/typescript/ts内置工具类" },
         { text: "as", link: "/web/typescript/as" },
+        { text: "is", link: "/web/typescript/is" },
+        { text: "extends", link: "/web/typescript/extends" },
       ]
     },
     {
@@ -102,6 +106,7 @@ function sidebarWeb(): DefaultTheme.SidebarItem[] {
         {
           text: "webpack",
           items: [
+            { text: "基本配置", link: "/web/配置/webpack/基本配置" },
             { text: "常用Loader", link: "/web/配置/webpack/常用Loader" },
             { text: "常用Plugin", link: "/web/配置/webpack/常用Plugin" },
             { text: "模块联邦", link: "/web/配置/webpack/模块联邦" },
