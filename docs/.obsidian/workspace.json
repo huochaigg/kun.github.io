@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/vue/如何自定义指令.md",
+                "file": "web/微前端/微前端的原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何自定义指令"
+              "title": "微前端的原理"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/vue/如何自定义指令.md",
+                "file": "web/微前端/微前端的原理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "如何自定义指令 的大纲"
+              "title": "微前端的原理 的大纲"
             }
           }
         ],
@@ -170,32 +170,32 @@
   },
   "active": "86e00b48c635ab2c",
   "lastOpenFiles": [
-    "web/vue/双向绑定的原理.md",
+    "web/配置/vite/基本配置.md",
+    "web/配置/vite/vite和webpack的区别.md",
+    "web/配置/webpack/常用Loader.md",
+    "web/react/React.Suspense.md",
+    "web/react/react的渲染.md",
+    "web/其他/TSPL指令.md",
+    "web/其他/打印机相关.md",
+    "web/其他/工作规范.md",
+    "web/其他/PM2.md",
+    "web/网络和浏览器/WebWorker.md",
+    "web/网络和浏览器/SEO优化.md",
+    "web/网络和浏览器/HTTP.md",
+    "web/网络和浏览器/CDN.md",
+    "web/网络和浏览器/前端优化相关.md",
+    "web/网络和浏览器/浏览器执行顺序.md",
+    "web/网络和浏览器/浏览器进程.md",
+    "web/网络和浏览器/加密.md",
     "web/vue/如何自定义指令.md",
+    "web/vue/双向绑定的原理.md",
     "web/vue/如何调试vue.md",
     "web/typescript/extends.md",
     "web/typescript/as.md",
     "web/typescript/ts内置工具类.md",
     "web/配置/webpack/如何把配置文件改为TS.md",
-    "web/配置/vite/vite和webpack的区别.md",
     "web/javascript/var,let,const区别.md",
     "web/javascript/WeakSet.md",
-    "web/javascript/WeakMap.md",
-    "web/javascript/Reflect.md",
-    "web/javascript/canvas.md",
-    "web/javascript/正则表达式.md",
-    "web/javascript/事件循环.md",
-    "web/javascript/垃圾回收机制.md",
-    "web/微前端/微前端的原理.md",
-    "web/微前端/qiankun如何使用.md",
-    "web/网络和浏览器/SEO优化.md",
-    "web/网络和浏览器/CDN.md",
-    "web/网络和浏览器/前端优化相关.md",
-    "web/网络和浏览器/浏览器执行顺序.md",
-    "web/其他/TSPL指令.md",
-    "web/其他/git.md",
-    "web/其他/yarn.md",
-    "web/其他/批量上传.md",
     "web/javascript",
     "web/css",
     "kun.github.io/assets",
