@@ -15,7 +15,7 @@ export default defineConfig({
   },
 })
 
-function sidebarWeb(): DefaultTheme.SidebarGroup[] {
+function sidebarWeb(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: 'CSS',
@@ -92,7 +92,7 @@ function sidebarWeb(): DefaultTheme.SidebarGroup[] {
       collapsed: false,
       items: [
         { text: "qiankun如何使用", link: "/web/微前端/qiankun如何使用" },
-        { text: "微前端的原理", link: "/web/微前端/微前端的原理" },
+        { text: "微前端的应用", link: "/web/微前端/微前端的应用" },
       ]
     },
     {
