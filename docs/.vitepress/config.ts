@@ -107,8 +107,8 @@ function sidebarWeb(): DefaultTheme.SidebarItem[] {
           text: "webpack",
           items: [
             { text: "基本配置", link: "/web/配置/webpack/基本配置" },
-            { text: "常用Loader", link: "/web/配置/webpack/常用Loader" },
-            { text: "常用Plugin", link: "/web/配置/webpack/常用Plugin" },
+            // { text: "常用Loader", link: "/web/配置/webpack/常用Loader" },
+            // { text: "常用Plugin", link: "/web/配置/webpack/常用Plugin" },
             { text: "模块联邦", link: "/web/配置/webpack/模块联邦" },
             { text: "如何把配置文件改为TS", link: "/web/配置/webpack/如何把配置文件改为TS" },
             { text: "Electron配置", link: "/web/配置/webpack/Electron配置" },
