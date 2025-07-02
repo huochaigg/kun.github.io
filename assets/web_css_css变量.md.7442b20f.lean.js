@@ -1,0 +1,1 @@
+import{_ as s,c as e,o as a,Q as n}from"./chunks/framework.ef145a76.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/css/css变量.md","filePath":"web/css/css变量.md"}'),l={name:"web/css/css变量.md"},p=n("",8),o=[p];function c(t,r,i,d,y,h){return a(),e("div",null,o)}const b=s(l,[["render",c]]);export{g as __pageData,b as default};

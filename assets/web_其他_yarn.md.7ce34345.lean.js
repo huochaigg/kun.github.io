@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as s,Q as n}from"./chunks/framework.ef145a76.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/其他/yarn.md","filePath":"web/其他/yarn.md"}'),l={name:"web/其他/yarn.md"},p=n("",30),c=[p];function o(t,i,r,d,h,g){return s(),e("div",null,c)}const k=a(l,[["render",o]]);export{u as __pageData,k as default};

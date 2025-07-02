@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,Q as p}from"./chunks/framework.ef145a76.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/其他/打印机相关.md","filePath":"web/其他/打印机相关.md"}'),o={name:"web/其他/打印机相关.md"},s=p("",12),i=[s];function _(r,l,n,c,d,h){return t(),e("div",null,i)}const u=a(o,[["render",_]]);export{b as __pageData,u as default};

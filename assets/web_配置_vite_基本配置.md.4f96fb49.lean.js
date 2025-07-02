@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.ef145a76.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/配置/vite/基本配置.md","filePath":"web/配置/vite/基本配置.md"}'),r={name:"web/配置/vite/基本配置.md"};function o(s,c,n,_,i,p){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
