@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.ef145a76.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/跨平台/jsbridge.md","filePath":"web/跨平台/jsbridge.md"}'),a={name:"web/跨平台/jsbridge.md"};function s(o,c,n,d,i,p){return r(),t("div")}const f=e(a,[["render",s]]);export{m as __pageData,f as default};

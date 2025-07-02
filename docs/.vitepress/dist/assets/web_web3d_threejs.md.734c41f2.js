@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r}from"./app.b8b79069.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/web3d/threejs.md"}'),a={name:"web/web3d/threejs.md"};function s(o,c,n,d,p,_){return r(),t("div")}const f=e(a,[["render",s]]);export{m as __pageData,f as default};

@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as s}from"./app.b8b79069.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"kun.github.io/assets/20250610120917.png.md"}'),a={name:"kun.github.io/assets/20250610120917.png.md"};function n(o,r,c,p,i,_){return s(),e("div")}const u=t(a,[["render",n]]);export{m as __pageData,u as default};

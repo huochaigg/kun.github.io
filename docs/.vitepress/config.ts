@@ -112,6 +112,7 @@ function sidebarWeb(): DefaultTheme.SidebarItem[] {
             { text: "模块联邦", link: "/web/配置/webpack/模块联邦" },
             { text: "如何把配置文件改为TS", link: "/web/配置/webpack/如何把配置文件改为TS" },
             { text: "Electron配置", link: "/web/配置/webpack/Electron配置" },
+            { text: "配置笔记", link: "/web/配置/webpack/配置笔记" },
           ]
         },
         {

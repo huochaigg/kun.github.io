@@ -1,0 +1,1 @@
+import{_ as t,c as e,o,Q as r}from"./chunks/framework.ef145a76.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/网络和浏览器/CDN.md","filePath":"web/网络和浏览器/CDN.md"}'),s={name:"web/网络和浏览器/CDN.md"},a=r("",3),n=[a];function _(i,l,c,d,g,p){return o(),e("div",null,n)}const f=t(s,[["render",_]]);export{h as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.ef145a76.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/vue/双向绑定的原理.md","filePath":"web/vue/双向绑定的原理.md"}'),r={name:"web/vue/双向绑定的原理.md"};function _(o,s,c,n,p,d){return a(),t("div")}const f=e(r,[["render",_]]);export{m as __pageData,f as default};

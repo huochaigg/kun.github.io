@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./chunks/framework.ef145a76.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/配置/webpack/常用Loader.md","filePath":"web/配置/webpack/常用Loader.md"}'),r={name:"web/配置/webpack/常用Loader.md"};function o(c,s,n,d,p,_){return t(),a("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};

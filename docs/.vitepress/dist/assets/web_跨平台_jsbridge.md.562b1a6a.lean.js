@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r}from"./app.b8b79069.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/\u8DE8\u5E73\u53F0/jsbridge.md"}'),a={name:"web/\u8DE8\u5E73\u53F0/jsbridge.md"};function s(o,c,n,d,i,p){return r(),t("div")}const f=e(a,[["render",s]]);export{m as __pageData,f as default};
