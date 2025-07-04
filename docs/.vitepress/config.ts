@@ -85,6 +85,7 @@ function sidebarWeb(): DefaultTheme.SidebarItem[] {
         { text: "常见安全问题-点击劫持", link: "/web/网络和浏览器/常见安全问题-点击劫持" },
         { text: "HTTP", link: "/web/网络和浏览器/HTTP" },
         { text: "SEO优化", link: "/web/网络和浏览器/SEO优化" },
+        { text: "SSE", link: "/web/网络和浏览器/SSE" },
         { text: "CDN", link: "/web/网络和浏览器/CDN" },
         { text: "浏览器进程", link: "/web/网络和浏览器/浏览器进程" },
         { text: "浏览器执行顺序", link: "/web/网络和浏览器/浏览器执行顺序" },

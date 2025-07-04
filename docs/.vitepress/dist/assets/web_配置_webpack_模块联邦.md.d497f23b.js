@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.ef145a76.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/配置/webpack/模块联邦.md","filePath":"web/配置/webpack/模块联邦.md"}'),c={name:"web/配置/webpack/模块联邦.md"};function r(o,s,n,_,p,d){return a(),t("div")}const f=e(c,[["render",r]]);export{m as __pageData,f as default};

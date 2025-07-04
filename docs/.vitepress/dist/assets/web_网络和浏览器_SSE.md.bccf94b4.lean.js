@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as e,Q as a}from"./chunks/framework.ef145a76.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/网络和浏览器/SSE.md","filePath":"web/网络和浏览器/SSE.md"}'),l={name:"web/网络和浏览器/SSE.md"},p=a("",6),o=[p];function c(t,r,i,d,y,u){return e(),n("div",null,o)}const v=s(l,[["render",c]]);export{h as __pageData,v as default};

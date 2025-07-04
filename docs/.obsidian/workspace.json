@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/网络和浏览器/SSE.md",
+                "file": "web/javascript/正则表达式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSE"
+              "title": "正则表达式"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/网络和浏览器/SSE.md",
+                "file": "web/javascript/正则表达式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SSE 的大纲"
+              "title": "正则表达式 的大纲"
             }
           }
         ],
@@ -170,8 +170,11 @@
   },
   "active": "86e00b48c635ab2c",
   "lastOpenFiles": [
-    "web/网络和浏览器/前端优化相关.md",
+    "web/css/tailwind css.md",
+    "web/javascript/canvas.md",
+    "web/javascript/正则表达式.md",
     "web/网络和浏览器/SSE.md",
+    "web/网络和浏览器/前端优化相关.md",
     "web/网络和浏览器/SEO优化.md",
     "web/其他/git.md",
     "web/其他/批量上传.md",
@@ -184,7 +187,6 @@
     "web/配置/webpack/如何把配置文件改为TS.md",
     "web/配置/webpack/Electron配置.md",
     "web/配置/webpack/模块联邦.md",
-    "web/javascript/正则表达式.md",
     "about.md",
     "index.md",
     "web/javascript/var,let,const区别.md",
@@ -194,8 +196,6 @@
     "web/javascript/事件循环.md",
     "web/javascript/WeakSet.md",
     "web/javascript/WeakMap.md",
-    "web/javascript/canvas.md",
-    "博客推送方式.md",
     "web/javascript",
     "web/css",
     "kun.github.io/assets",
