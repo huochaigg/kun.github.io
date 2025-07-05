@@ -37,6 +37,7 @@ function sidebarWeb(): DefaultTheme.SidebarItem[] {
         { text: "WeakSet", link: "/web/javascript/WeakSet" },
         { text: "Reflect", link: "/web/javascript/Reflect" },
         { text: "canvas", link: "/web/javascript/canvas" },
+        { text: "如何优化canvas动画", link: "/web/javascript/如何优化canvas动画" },
         { text: "正则表达式", link: "/web/javascript/正则表达式" },
         { text: "var,let,const区别", link: "/web/javascript/var,let,const区别" },
       ]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/javascript/正则表达式.md",
+                "file": "web/javascript/如何优化canvas动画.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "正则表达式"
+              "title": "如何优化canvas动画"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/javascript/正则表达式.md",
+                "file": "web/javascript/如何优化canvas动画.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "正则表达式 的大纲"
+              "title": "如何优化canvas动画 的大纲"
             }
           }
         ],
@@ -170,9 +170,16 @@
   },
   "active": "86e00b48c635ab2c",
   "lastOpenFiles": [
-    "web/css/tailwind css.md",
+    "assets/canvas4.gif",
+    "assets/canvas3.gif",
+    "web/javascript/垃圾回收机制.md",
+    "web/javascript/如何优化canvas动画.md",
+    "assets/canvas2.gif",
+    "assets/canvas.gif",
+    "web/css/BFC.md",
     "web/javascript/canvas.md",
     "web/javascript/正则表达式.md",
+    "web/css/tailwind css.md",
     "web/网络和浏览器/SSE.md",
     "web/网络和浏览器/前端优化相关.md",
     "web/网络和浏览器/SEO优化.md",
@@ -191,11 +198,7 @@
     "index.md",
     "web/javascript/var,let,const区别.md",
     "web/javascript/Reflect.md",
-    "web/javascript/垃圾回收机制.md",
     "web/javascript/变量提升.md",
-    "web/javascript/事件循环.md",
-    "web/javascript/WeakSet.md",
-    "web/javascript/WeakMap.md",
     "web/javascript",
     "web/css",
     "kun.github.io/assets",
@@ -207,13 +210,11 @@
     "assets/useTransition1.gif",
     "assets/useSyncExternalStore.gif",
     "assets/delete.png",
-    "assets/20250610162859.png",
     "assets",
     "web/typescript/typescript/extends",
     "web/typescript/typescript",
     "web/配置/vite",
     "web/网络和浏览器",
-    "web/web3d",
-    "assets/image.png"
+    "web/web3d"
   ]
 }
