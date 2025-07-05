@@ -1,3 +1,4 @@
+## 基本用法
 
 ```
 // 主线程文件
@@ -22,7 +23,7 @@ onmessage = function (event) {
 };
 ```
 
-如果一个 Worker 处理多个事件类型呢？
+## 如果一个 Worker 处理多个事件类型呢？
 
 ```
 // worker.js
