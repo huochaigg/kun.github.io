@@ -233,7 +233,7 @@ function generateQRCodeToOffCanvas(qrCode) {
 
 已经非常流畅了，（截屏工具表现不出来）
 
-如果还想要更流畅呢，比如前端使用低代码等框架，往往有数十个甚至数百个组件，那么岂不是要很卡？
+前端使用低代码等框架，往往有数十个甚至数百个组件，那么岂不是要很卡？
 
 这时候可以使用Web Worker来优化代码（注意，webworker要启一个web服务，直接用 `file://` 协议打开 HTML 页面时，浏览器**出于安全考虑**，禁止加载本地 JavaScript Worker 文件）：
 
@@ -243,7 +243,7 @@ function generateQRCodeToOffCanvas(qrCode) {
 文件结构
 
 ```
---
+-- canvas
  - 5_webworker.js
  - 5.html
  - qrcode-generator.js
@@ -265,7 +265,7 @@ function generateQRCodeToOffCanvas(qrCode) {
 </head>
 
 <body>
-  <canvas id="canvas" width="600" height="600"></canvas>
+  <canvas id="canvas" style="width: 100vw;height: 100vh;"></canvas>
 
   <script>
     function getColor() {
@@ -277,10 +277,10 @@ function generateQRCodeToOffCanvas(qrCode) {
     }
 
     function getXById(id) {
-      return ((id - 1) % 5) * 100; 
+      return ((id - 1) % 16) * 100; 
     }
     function getYById(id) {
-      return Math.floor((id - 1) / 5) * 100;
+      return Math.floor((id - 1) / 16) * 100;
     }
 
   </script>
@@ -296,7 +296,7 @@ function generateQRCodeToOffCanvas(qrCode) {
 
     const worker = new Worker('./5_webworker.js');
 
-    let qrCodes = Array.from({ length: 24 }, (_, i) => {
+    let qrCodes = Array.from({ length: 200 }, (_, i) => {
       const id = i + 1;
       return {
         id,
@@ -304,8 +304,8 @@ function generateQRCodeToOffCanvas(qrCode) {
         color: getColor(id), // 自定义颜色函数
         x: getXById(id),
         y: getYById(id),
-        width: 150,
-        height: 150,
+        width: 100,
+        height: 100,
         zIndex: id  // 初始 zIndex 按顺序
       };
     });
@@ -382,7 +382,6 @@ function generateQRCodeToOffCanvas(qrCode) {
 </body>
 
 </html>
-
 ```
 
 
@@ -425,6 +424,14 @@ onmessage = async function (e) {
 
 ```
 
-![webworker](/assets/canvas4.gif)
+![webworker](/assets/canvas_refresh.gif)
 
-20多个二维码同时渲染，仍然非常丝滑
+200个二维码同时渲染, 未使用webworker的DOM执行完成时间大约170ms
+
+![webworker](/assets/canvas_refresh_time.png)
+
+使用webworker后, 只有27ms， 提升了数倍初始加载速度：
+
+![webworker](/assets/canvas_refresh_time2.png)
+
+![webworker](/assets/canvas_refresh2.gif)
