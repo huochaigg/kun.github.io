@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/javascript/如何优化canvas动画.md",
+                "file": "web/javascript/webworker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何优化canvas动画"
+              "title": "webworker"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/javascript/如何优化canvas动画.md",
+                "file": "web/javascript/webworker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "如何优化canvas动画 的大纲"
+              "title": "webworker 的大纲"
             }
           }
         ],
@@ -170,8 +170,9 @@
   },
   "active": "86e00b48c635ab2c",
   "lastOpenFiles": [
-    "web/javascript/垃圾回收机制.md",
     "web/javascript/如何优化canvas动画.md",
+    "web/javascript/webworker.md",
+    "web/javascript/垃圾回收机制.md",
     "assets/canvas_refresh_time.png",
     "assets/canvas_refresh_time2.png",
     "Pasted image 20250705113203.png",

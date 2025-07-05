@@ -6,7 +6,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: "首页", link: "/" },
-      { text: "前端学习", link: "/web/css/BFC" },
+      { text: "前端学习", link: "/web/css/BFC", activeMatch: '/web/' },
       { text: "关于我", link: "/about" },
     ],
     sidebar: {
