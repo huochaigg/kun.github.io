@@ -1,7 +1,7 @@
 import { defineConfig, type DefaultTheme } from 'vitepress'
 
 export default defineConfig({
-  title: "我的博客",
+  title: "学习笔记",
   base: '/kun.github.io/',
   themeConfig: {
     nav: [

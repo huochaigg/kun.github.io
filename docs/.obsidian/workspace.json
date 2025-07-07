@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/javascript/webworker.md",
+                "file": "web/react/fiber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "webworker"
+              "title": "fiber"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/javascript/webworker.md",
+                "file": "web/react/fiber.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "webworker 的大纲"
+              "title": "fiber 的大纲"
             }
           }
         ],
@@ -170,9 +170,32 @@
   },
   "active": "86e00b48c635ab2c",
   "lastOpenFiles": [
-    "web/javascript/如何优化canvas动画.md",
-    "web/javascript/webworker.md",
-    "web/javascript/垃圾回收机制.md",
+    "web/react/react的渲染.md",
+    "web/网络和浏览器/WebWorker.md",
+    "web/网络和浏览器/前端优化相关.md",
+    "web/网络和浏览器/HTTP.md",
+    "web/其他/PM2.md",
+    "web/跨平台/Dart.md",
+    "web/跨平台/鸿蒙.md",
+    "web/跨平台/RN.md",
+    "web/跨平台/jsbridge.md",
+    "web/css/Shadow DOM.md",
+    "web/css/IFC.md",
+    "web/css/hsl.md",
+    "web/css/BFC.md",
+    "web/css/css变量.md",
+    "web/微前端/qiankun如何使用.md",
+    "web/微前端/微前端的应用.md",
+    "about.md",
+    "博客推送方式.md",
+    "web/web3d/threejs.md",
+    "web/vue/vue3渲染流程.md",
+    "web/vue/nextTick.md",
+    "web/vue/如何自定义指令.md",
+    "web/vue/双向绑定的原理.md",
+    "web/vue/如何调试vue.md",
+    "web/typescript/ts内置工具类.md",
+    "web/typescript/is.md",
     "assets/canvas_refresh_time.png",
     "assets/canvas_refresh_time2.png",
     "Pasted image 20250705113203.png",
@@ -183,29 +206,6 @@
     "assets/canvas4.gif",
     "assets/canvas3.gif",
     "assets/canvas2.gif",
-    "web/css/BFC.md",
-    "web/javascript/canvas.md",
-    "web/javascript/正则表达式.md",
-    "web/css/tailwind css.md",
-    "web/网络和浏览器/SSE.md",
-    "web/网络和浏览器/前端优化相关.md",
-    "web/网络和浏览器/SEO优化.md",
-    "web/其他/git.md",
-    "web/其他/批量上传.md",
-    "web/其他/工作中的注意点.md",
-    "web/其他/工作规范.md",
-    "web/配置/webpack/常用Plugin.md",
-    "web/配置/webpack/常用Loader.md",
-    "web/配置/webpack/基本配置.md",
-    "web/配置/webpack/配置笔记.md",
-    "web/配置/webpack/如何把配置文件改为TS.md",
-    "web/配置/webpack/Electron配置.md",
-    "web/配置/webpack/模块联邦.md",
-    "about.md",
-    "index.md",
-    "web/javascript/var,let,const区别.md",
-    "web/javascript/Reflect.md",
-    "web/javascript/变量提升.md",
     "web/javascript",
     "web/css",
     "kun.github.io/assets",

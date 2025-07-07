@@ -141,13 +141,13 @@ export default {
 
 ```
 const userInput = "alert('XSS')";
-setTimeout(userInput, 1000); // ⚠️ 会执行 alert('XSS')
+setTimeout(userInput, 1000); //  会执行 alert('XSS')
 ```
 
 安全写法：
 
 ```
-// ✅ 正确写法：传入函数，不传字符串
+//  正确写法：传入函数，不传字符串
 setTimeout(() => {
   console.log("安全执行");
 }, 1000);
@@ -159,7 +159,7 @@ setTimeout(() => {
 不安全的：
 
 ```
-new Function(userInput)(); // ⚠️ 也会执行 alert('XSS')
+new Function(userInput)(); //  也会执行 alert('XSS')
 ```
 
 ##### 不要在标签上添加事件

@@ -46,3 +46,45 @@ function workLoop(deadline) {
     - 所有更新一视同仁，无法先处理高优先级任务，比如用户输入、动画。
 - **并发渲染难以实现：**
     - 之前架构不支持异步更新，无法适配现代需求。
+
+
+
+## 扩展
+
+### requestIdleCallback
+
+`requestIdleCallback` 是浏览器提供的一个 API，用于在 **主线程空闲时** 异步执行低优先级任务，比如日志上报、预加载、非关键计算等，从而避免阻塞用户交互和高优先级渲染任务。
+
+语法：
+
+```
+let id = requestIdleCallback(callback[, options])
+```
+
+- **callback**：一个函数，接收一个 `IdleDeadline` 对象，用于判断是否还有空闲时间。
+- **options.timeout（可选）**：设定最迟多久必须执行这个回调（即使没空闲），单位毫秒。
+
+```
+requestIdleCallback((deadline) => {
+  if (deadline.didTimeout) {
+    // 超时强制执行
+    doAllTasks();
+  } else {
+    // 有空闲时间才执行
+    while (deadline.timeRemaining() > 0) {
+      doTask();
+    }
+  }
+}, { timeout: 2000 });
+```
+
+`IdleDeadline` 参数:
+
+```
+interface IdleDeadline {
+  didTimeout: boolean; // 是否因超时而被强制执行
+  timeRemaining(): DOMHighResTimeStamp; // 当前帧还剩余的空闲时间（毫秒）
+}
+
+// timeRemaining() 返回值通常在几毫秒 ~ 十几毫秒之间。
+```
