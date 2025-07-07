@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/react/fiber.md",
+                "file": "about/游戏.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fiber"
+              "title": "游戏"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/react/fiber.md",
+                "file": "about/游戏.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "fiber 的大纲"
+              "title": "游戏 的大纲"
             }
           }
         ],
@@ -170,6 +170,25 @@
   },
   "active": "86e00b48c635ab2c",
   "lastOpenFiles": [
+    "about/学习.md",
+    "about/学习计划.md",
+    "about/游戏.md",
+    "web/css/BFC.md",
+    "about.md",
+    "20250707170400_1.jpg",
+    "web/react/fiber.md",
+    "assets/game/20250708002332.jpg",
+    "assets/game/20250708002302.jpg",
+    "assets/game/20250708002208.jpg",
+    "assets/game/20250708002120.jpg",
+    "assets/game/20250708002050.jpg",
+    "assets/game/20250708002022.jpg",
+    "assets/game/20250708001926.jpg",
+    "assets/game/20250708001818.jpg",
+    "assets/game/20250708001714.jpg",
+    "assets/game",
+    "assets/新建文件夹",
+    "about",
     "web/react/react的渲染.md",
     "web/网络和浏览器/WebWorker.md",
     "web/网络和浏览器/前端优化相关.md",
@@ -182,39 +201,20 @@
     "web/css/Shadow DOM.md",
     "web/css/IFC.md",
     "web/css/hsl.md",
-    "web/css/BFC.md",
     "web/css/css变量.md",
     "web/微前端/qiankun如何使用.md",
     "web/微前端/微前端的应用.md",
-    "about.md",
     "博客推送方式.md",
     "web/web3d/threejs.md",
     "web/vue/vue3渲染流程.md",
     "web/vue/nextTick.md",
     "web/vue/如何自定义指令.md",
-    "web/vue/双向绑定的原理.md",
-    "web/vue/如何调试vue.md",
-    "web/typescript/ts内置工具类.md",
-    "web/typescript/is.md",
-    "assets/canvas_refresh_time.png",
-    "assets/canvas_refresh_time2.png",
-    "Pasted image 20250705113203.png",
-    "assets/canvas_refresh_time.png",
-    "Pasted image 20250705112954.png",
-    "assets/canvas_refresh2.gif",
-    "assets/canvas_refresh.gif",
-    "assets/canvas4.gif",
-    "assets/canvas3.gif",
-    "assets/canvas2.gif",
     "web/javascript",
     "web/css",
     "kun.github.io/assets",
     "kun.github.io",
     "assets",
     "web/typescript/typescript/extends",
-    "web/typescript/typescript",
-    "web/配置/vite",
-    "web/网络和浏览器",
-    "web/web3d"
+    "web/typescript/typescript"
   ]
 }

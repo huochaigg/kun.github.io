@@ -7,10 +7,11 @@ export default defineConfig({
     nav: [
       { text: "首页", link: "/" },
       { text: "前端学习", link: "/web/css/BFC", activeMatch: '/web/' },
-      { text: "关于我", link: "/about" },
+      { text: "关于我", link: "/about/学习计划", activeMatch: '/about/' },
     ],
     sidebar: {
       '/web/': sidebarWeb(),
+      '/about/': aboutSidebarWeb()
     }
   },
 })
@@ -145,5 +146,13 @@ function sidebarWeb(): DefaultTheme.SidebarItem[] {
         { text: "PM2", link: "/web/其他/PM2" },
       ]
     }
+  ];
+}
+
+
+function aboutSidebarWeb(): DefaultTheme.SidebarItem[] {
+  return [
+    { text: "学习计划", link: "/about/学习计划" },
+    { text: "游戏", link: "/about/游戏" },
   ];
 }
