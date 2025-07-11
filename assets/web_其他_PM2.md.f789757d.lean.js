@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,Q as n}from"./chunks/framework.ef145a76.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/其他/PM2.md","filePath":"web/其他/PM2.md"}'),p={name:"web/其他/PM2.md"},l=n("",28),o=[l];function c(t,i,r,d,y,h){return e(),a("div",null,o)}const g=s(p,[["render",c]]);export{m as __pageData,g as default};
