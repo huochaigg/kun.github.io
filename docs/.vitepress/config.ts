@@ -153,6 +153,6 @@ function sidebarWeb(): DefaultTheme.SidebarItem[] {
 function aboutSidebarWeb(): DefaultTheme.SidebarItem[] {
   return [
     { text: "学习计划", link: "/about/学习计划" },
-    { text: "游戏", link: "/about/游戏" },
+    // { text: "游戏", link: "/about/游戏" },
   ];
 }
