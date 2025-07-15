@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/其他/git.md",
+                "file": "web/网络和浏览器/前端优化相关.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "前端优化相关"
+            }
+          },
+          {
+            "id": "7a475eb93430125d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web/css/BFC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BFC"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compose",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +88,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/其他/git.md",
+                "file": "web/网络和浏览器/前端优化相关.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git 的大纲"
+              "title": "前端优化相关 的大纲"
             }
           }
         ],
@@ -169,17 +182,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1c35eb1f1dfe05fb",
+  "active": "f1ca20a2879eff82",
   "lastOpenFiles": [
+    "web/css/BFC.md",
+    "web/网络和浏览器/前端优化相关.md",
+    "assets/20250715172715.png",
+    "web/react/useSyncExternalStore.md",
+    "web/react/react的渲染.md",
+    "web/网络和浏览器/HTTP.md",
+    "web/react/fiber.md",
+    "web/其他/git.md",
     "about/游戏.md",
     "未命名.md",
     "server",
     "about/学习.md",
     "about/学习计划.md",
-    "web/css/BFC.md",
     "about.md",
     "20250707170400_1.jpg",
-    "web/react/fiber.md",
     "assets/game/20250708002332.jpg",
     "assets/game/20250708002302.jpg",
     "assets/game/20250708002208.jpg",
@@ -188,14 +207,10 @@
     "assets/game/20250708002022.jpg",
     "assets/game/20250708001926.jpg",
     "assets/game/20250708001818.jpg",
-    "assets/game/20250708001714.jpg",
     "assets/game",
     "assets/新建文件夹",
     "about",
-    "web/react/react的渲染.md",
     "web/网络和浏览器/WebWorker.md",
-    "web/网络和浏览器/前端优化相关.md",
-    "web/网络和浏览器/HTTP.md",
     "web/其他/PM2.md",
     "web/跨平台/Dart.md",
     "web/跨平台/鸿蒙.md",
@@ -208,8 +223,6 @@
     "web/微前端/qiankun如何使用.md",
     "web/微前端/微前端的应用.md",
     "博客推送方式.md",
-    "web/web3d/threejs.md",
-    "web/vue/vue3渲染流程.md",
     "web/javascript",
     "web/css",
     "kun.github.io/assets",
