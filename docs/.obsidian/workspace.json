@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/网络和浏览器/前端优化相关.md",
+                "file": "web/javascript/js的类型问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前端优化相关"
+              "title": "js的类型问题"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"web/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/网络和浏览器/前端优化相关.md",
+                "file": "web/javascript/js的类型问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "前端优化相关 的大纲"
+              "title": "js的类型问题 的大纲"
             }
           }
         ],
@@ -184,9 +184,19 @@
   },
   "active": "f1ca20a2879eff82",
   "lastOpenFiles": [
+    "Pasted image 20250721150812.png",
     "web/css/BFC.md",
-    "web/网络和浏览器/前端优化相关.md",
+    "web/javascript/js的类型问题.md",
+    "assets/20250721150559.png",
+    "assets/20250721150419.png",
     "assets/20250715172715.png",
+    "assets/20250610162859.png",
+    "Pasted image 20250721150422.png",
+    "web/跨平台/鸿蒙.md",
+    "web/网络和浏览器/常见安全问题-CSRF.md",
+    "web/微前端/qiankun如何使用.md",
+    "web/微前端/微前端的应用.md",
+    "web/网络和浏览器/前端优化相关.md",
     "web/react/useSyncExternalStore.md",
     "web/react/react的渲染.md",
     "web/网络和浏览器/HTTP.md",
@@ -203,26 +213,17 @@
     "assets/game/20250708002302.jpg",
     "assets/game/20250708002208.jpg",
     "assets/game/20250708002120.jpg",
-    "assets/game/20250708002050.jpg",
-    "assets/game/20250708002022.jpg",
-    "assets/game/20250708001926.jpg",
-    "assets/game/20250708001818.jpg",
     "assets/game",
     "assets/新建文件夹",
     "about",
     "web/网络和浏览器/WebWorker.md",
     "web/其他/PM2.md",
     "web/跨平台/Dart.md",
-    "web/跨平台/鸿蒙.md",
     "web/跨平台/RN.md",
     "web/跨平台/jsbridge.md",
     "web/css/Shadow DOM.md",
     "web/css/IFC.md",
     "web/css/hsl.md",
-    "web/css/css变量.md",
-    "web/微前端/qiankun如何使用.md",
-    "web/微前端/微前端的应用.md",
-    "博客推送方式.md",
     "web/javascript",
     "web/css",
     "kun.github.io/assets",
