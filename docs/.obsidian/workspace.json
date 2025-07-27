@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/网络和浏览器/浏览器进程.md",
+                "file": "web/网络和浏览器/浏览器执行顺序.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "浏览器进程"
+              "title": "浏览器执行顺序"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/网络和浏览器/浏览器进程.md",
+                "file": "web/网络和浏览器/浏览器执行顺序.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "浏览器进程 的大纲"
+              "title": "浏览器执行顺序 的大纲"
             }
           }
         ],
@@ -170,8 +170,10 @@
   },
   "active": "9147d83720b951fe",
   "lastOpenFiles": [
-    "web/网络和浏览器/浏览器执行顺序.md",
+    "assets/浏览器",
+    "assets/新建文件夹",
     "web/网络和浏览器/浏览器进程.md",
+    "web/网络和浏览器/浏览器执行顺序.md",
     "web/css/hsl.md",
     "web/css/BFC.md",
     "web/css/css变量.md",
@@ -203,13 +205,11 @@
     "assets/game/20250708002302.jpg",
     "assets/game/20250708002208.jpg",
     "assets/game",
-    "assets/新建文件夹",
     "about",
     "web/网络和浏览器/WebWorker.md",
     "web/其他/PM2.md",
     "web/跨平台/Dart.md",
     "web/跨平台/RN.md",
-    "web/跨平台/jsbridge.md",
     "web/javascript",
     "web/css",
     "kun.github.io/assets",
