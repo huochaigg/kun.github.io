@@ -66,6 +66,7 @@ function sidebarWeb(): DefaultTheme.SidebarItem[] {
         { text: "nextTick", link: "/web/vue/nextTick" },
         { text: "vue3渲染流程", link: "/web/vue/vue3渲染流程" },
         { text: "如何调试vue", link: "/web/vue/如何调试vue" },
+        { text: "vue3如何透传", link: "/web/vue/vue3如何透传" },
       ]
     },
     {
