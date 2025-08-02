@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/vue/vue3如何透传.md",
+                "file": "web/工程化/pnpm/配置问题记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vue3如何透传"
+              "title": "配置问题记录"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/vue/vue3如何透传.md",
+                "file": "web/工程化/pnpm/配置问题记录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "vue3如何透传 的大纲"
+              "title": "配置问题记录 的大纲"
             }
           }
         ],
@@ -170,8 +170,15 @@
   },
   "active": "9147d83720b951fe",
   "lastOpenFiles": [
-    "web/vue/vue3渲染流程.md",
+    "web/工程化/pnpm/未命名.md",
+    "web/工程化/pnpm/配置问题记录.md",
+    "web/其他/打印机相关.md",
+    "web/工程化/pnpm",
+    "web/工程化",
+    "web/其他/工作规范.md",
+    "web/其他/工作中的注意点.md",
     "web/vue/vue3如何透传.md",
+    "web/vue/vue3渲染流程.md",
     "web/vue/nextTick.md",
     "web/vue/双向绑定的原理.md",
     "web/vue/如何自定义指令.md",
@@ -199,11 +206,6 @@
     "web/网络和浏览器/前端优化相关.md",
     "web/react/useSyncExternalStore.md",
     "web/react/react的渲染.md",
-    "web/网络和浏览器/HTTP.md",
-    "web/react/fiber.md",
-    "web/其他/git.md",
-    "about/游戏.md",
-    "未命名.md",
     "server",
     "20250707170400_1.jpg",
     "assets/game/20250708002332.jpg",
@@ -213,8 +215,6 @@
     "about",
     "web/javascript",
     "web/css",
-    "kun.github.io/assets",
-    "kun.github.io",
-    "assets"
+    "kun.github.io/assets"
   ]
 }
